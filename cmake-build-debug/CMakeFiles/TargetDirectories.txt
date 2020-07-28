@@ -1,0 +1,3 @@
+C:/Users/Ajits/CLionProjects/AjitSingh_BrarAssign1/cmake-build-debug/CMakeFiles/AjitSingh_BrarAssign1.dir
+C:/Users/Ajits/CLionProjects/AjitSingh_BrarAssign1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ajits/CLionProjects/AjitSingh_BrarAssign1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
